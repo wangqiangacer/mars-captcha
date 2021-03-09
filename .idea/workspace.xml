@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30a9b91f-55b4-4958-8911-056a159979b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/mars-captcha-core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/src/main/java/com/mars/captcha/captcha/core/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/src/main/java/com/mars/captcha/captcha/core/service/CaptchaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/src/main/java/com/mars/captcha/captcha/core/service/impl/CaptchaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/src/main/java/com/mars/captcha/captcha/core/utils/ValidateCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/classes/com/mars/captcha/captcha/core/constant/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/classes/com/mars/captcha/captcha/core/service/CaptchaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/classes/com/mars/captcha/captcha/core/service/impl/CaptchaServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/classes/com/mars/captcha/captcha/core/utils/ValidateCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/mars-captcha-spring-boot-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/src/main/java/com/mars/captcha/captcha/springboot/starter/configuration/CaptchaConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/src/main/java/com/mars/captcha/captcha/springboot/starter/properties/CaptchaProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/classes/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/classes/com/mars/captcha/captcha/springboot/starter/configuration/CaptchaConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/classes/com/mars/captcha/captcha/springboot/starter/properties/CaptchaProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-simple-captcha/mars-simple-captcha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-simple-captcha/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-simple-captcha/src/main/java/com/mars/captcha/simple/captcha/MarsSimpleCaptchaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-simple-captcha/src/main/java/com/mars/captcha/simple/captcha/controller/CaptchaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-simple-captcha/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-simple-captcha/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-simple-captcha/target/classes/com/mars/captcha/simple/captcha/MarsSimpleCaptchaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-simple-captcha/target/classes/com/mars/captcha/simple/captcha/controller/CaptchaController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pVumpEPWUMuHlEDsxEPZh6qlux" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\mars-captcha\mars-captcha-spring-boot-starter\src\main\resources" />
+      <recent name="D:\project\mars-captcha\mars-captcha-spring-boot-starter\src\main\java\com\mars\captcha\captcha\springboot\starter" />
+      <recent name="D:\project\mars-captcha\mars-captcha-core\src\main\java\com\mars\captcha\captcha\core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MarsSimpleCaptchaApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarsCaptchaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mars-captcha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mars.captcha.mars.captcha.MarsCaptchaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarsCaptchaCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mars-captcha-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mars.captcha.captcha.core.MarsCaptchaCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarsCaptchaSpringBootStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mars-captcha-spring-boot-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mars.captcha.captcha.springboot.starter.MarsCaptchaSpringBootStarterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarsSimpleCaptchaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mars-simple-captcha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mars.captcha.simple.captcha.MarsSimpleCaptchaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30a9b91f-55b4-4958-8911-056a159979b6" name="Default Changelist" comment="" />
+      <created>1615280740971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615280740971</updated>
+      <workItem from="1615280742143" duration="4651000" />
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.mars.captcha.captcha.springboot.starter.configuration.CaptchaConfiguration

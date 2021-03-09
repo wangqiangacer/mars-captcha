@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mars-captcha.iml" filepath="$PROJECT_DIR$/mars-captcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mars-captcha-core/mars-captcha-core.iml" filepath="$PROJECT_DIR$/mars-captcha-core/mars-captcha-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mars-captcha-spring-boot-starter/mars-captcha-spring-boot-starter.iml" filepath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/mars-captcha-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mars-simple-captcha/mars-simple-captcha.iml" filepath="$PROJECT_DIR$/mars-simple-captcha/mars-simple-captcha.iml" />
+    </modules>
+  </component>
+</project>

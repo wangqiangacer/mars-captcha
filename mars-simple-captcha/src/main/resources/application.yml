@@ -1,0 +1,9 @@
+mars:
+  captcha:
+    width: 160
+    height: 40
+    lineSize: 60
+    charNum: 4
+    charType: CHAR
+server:
+  port: 9036
