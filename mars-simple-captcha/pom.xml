@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>mars-captcha</artifactId>
-        <groupId>com.mars.captcha</groupId>
+        <groupId>com.github.mars.captcha</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>mars-simple-captcha</artifactId>

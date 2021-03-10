@@ -25,7 +25,7 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="mars-captcha-core" />
+    <orderEntry type="library" name="Maven: com.mars.captcha:mars-captcha-core:0.0.1-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.4.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.4.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.4" level="project" />

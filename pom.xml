@@ -8,7 +8,7 @@
         <version>2.4.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.mars.captcha</groupId>
+    <groupId>com.github.mars.captcha</groupId>
     <artifactId>mars-captcha</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mars-captcha</name>
