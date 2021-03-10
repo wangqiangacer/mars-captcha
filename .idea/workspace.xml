@@ -5,91 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30a9b91f-55b4-4958-8911-056a159979b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/allclasses-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/Constant.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/class-use/Constant.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/CaptchaService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/class-use/CaptchaService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/CaptchaServiceImpl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/class-use/CaptchaServiceImpl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/ValidateCode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/class-use/ValidateCode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/index-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/javadoc-bundle-options/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/allclasses-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/CaptchaConfiguration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/class-use/CaptchaConfiguration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/CaptchaProperties.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/class-use/CaptchaProperties.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/index-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/javadoc-bundle-options/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mars-captcha-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mars-simple-captcha/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mars-simple-captcha/target/classes/com/mars/captcha/simple/captcha/MarsSimpleCaptchaApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mars-simple-captcha/target/classes/com/mars/captcha/simple/captcha/controller/CaptchaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/Constant.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/Constant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/class-use/Constant.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/class-use/Constant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/constant/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/CaptchaService.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/CaptchaService.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/class-use/CaptchaService.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/class-use/CaptchaService.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/CaptchaServiceImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/CaptchaServiceImpl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/class-use/CaptchaServiceImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/class-use/CaptchaServiceImpl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/impl/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/service/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/ValidateCode.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/ValidateCode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/class-use/ValidateCode.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/class-use/ValidateCode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/com/mars/captcha/captcha/core/utils/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-core/target/mars-captcha-core-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/mars-captcha-spring-boot-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/mars-captcha-spring-boot-starter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/CaptchaConfiguration.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/CaptchaConfiguration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/class-use/CaptchaConfiguration.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/class-use/CaptchaConfiguration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/configuration/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/CaptchaProperties.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/CaptchaProperties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/class-use/CaptchaProperties.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/class-use/CaptchaProperties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/com/mars/captcha/captcha/springboot/starter/properties/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/mars-captcha-spring-boot-starter-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mars-captcha-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,11 +169,23 @@
       <option name="presentableId" value="Default" />
       <updated>1615280740971</updated>
       <workItem from="1615280742143" duration="4651000" />
-      <workItem from="1615381333875" duration="355000" />
+      <workItem from="1615381333875" duration="863000" />
     </task>
+    <task id="LOCAL-00001" summary="打包处理">
+      <created>1615381718147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615381718147</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="打包处理" />
+    <option name="LAST_COMMIT_MESSAGE" value="打包处理" />
   </component>
 </project>

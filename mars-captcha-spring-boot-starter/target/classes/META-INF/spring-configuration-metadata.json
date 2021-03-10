@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "mars.captcha",
+      "type": "com.mars.captcha.captcha.springboot.starter.properties.CaptchaProperties",
+      "sourceType": "com.mars.captcha.captcha.springboot.starter.properties.CaptchaProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mars.captcha.char-num",
+      "type": "java.lang.Integer",
+      "description": "字符数量",
+      "sourceType": "com.mars.captcha.captcha.springboot.starter.properties.CaptchaProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "mars.captcha.char-type",
+      "type": "java.lang.String",
+      "description": "字符类型",
+      "sourceType": "com.mars.captcha.captcha.springboot.starter.properties.CaptchaProperties"
+    },
+    {
+      "name": "mars.captcha.height",
+      "type": "java.lang.Integer",
+      "description": "高度",
+      "sourceType": "com.mars.captcha.captcha.springboot.starter.properties.CaptchaProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "mars.captcha.line-size",
+      "type": "java.lang.Integer",
+      "description": "干扰线数量",
+      "sourceType": "com.mars.captcha.captcha.springboot.starter.properties.CaptchaProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "mars.captcha.width",
+      "type": "java.lang.Integer",
+      "description": "宽度",
+      "sourceType": "com.mars.captcha.captcha.springboot.starter.properties.CaptchaProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

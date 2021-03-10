@@ -1,2 +1,3 @@
-com\mars\captcha\captcha\springboot\starter\configuration\CaptchaConfiguration.class
 com\mars\captcha\captcha\springboot\starter\properties\CaptchaProperties.class
+META-INF\spring-configuration-metadata.json
+com\mars\captcha\captcha\springboot\starter\configuration\CaptchaConfiguration.class
